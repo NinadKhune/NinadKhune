@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ninad Khune
-- 👀 I’m interested in Python, C++, C#, dotnet, Golang.
+- 👀 I’m interested in Civil engineering pitched programming, such as GIS (Geographic Information System) and Remote Sensing.
 - 🌱 I’m currently learning C++, C#, dotnet.
 - 💞️ I’m looking to collaborate on ... (yet to decide)
 - 📫 How to reach me 
